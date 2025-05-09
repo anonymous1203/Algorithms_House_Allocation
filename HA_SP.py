@@ -98,7 +98,7 @@ def min_envy_single_peaked_allocation(M):
         remaining_houses.remove(best_house)
     return allocation
 
-# Main experiment
+
 avg_welfare_max = []
 avg_welfare_fair = []
 
